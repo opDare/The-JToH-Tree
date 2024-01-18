@@ -726,7 +726,7 @@ addLayer("a", {
         }
     }
 })
-addLayer("dev", {
+/*addLayer("dev", {
     startData() {
         return {
             unlocked: true
@@ -747,7 +747,7 @@ addLayer("dev", {
                 ["display-text", function() { return "<h1>Are you sure you have to cheat?</h1>"}],
                 ["clickables", [99]]
             ]
-        },*/
+        },
         "Point add": {
             content: [
                 ["clickables", [1,2,3,4,5]]
@@ -871,4 +871,4 @@ addLayer("dev", {
             }
         }
     }
-})
+})*/
