@@ -749,7 +749,7 @@ addLayer("a", {
         }
     }
 })
-addLayer("dev", {
+/*addLayer("dev", {
     startData() {
         return {
             unlocked: true
@@ -763,14 +763,6 @@ addLayer("dev", {
     },
     //lol dev buttons for testing, ignore it if you want to beat it legit
     tabFormat: {
-        /*"Main": {
-            content: [
-                ["display-text", function() { return "<h1>This layer is for creator to debug, you shouldn't be here.</h1>"}],
-                ["display-text", function() { return "<h1>Your progress will be marked to be not legit forever.</h1>"}],
-                ["display-text", function() { return "<h1>Are you sure you have to cheat?</h1>"}],
-                ["clickables", [99]]
-            ]
-        },*/
         "Point add": {
             content: [
                 ["clickables", [1,2,3,4,5]]
@@ -914,4 +906,4 @@ addLayer("dev", {
             canClick: true,
         }
     }
-})
+})*/
