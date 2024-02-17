@@ -18,11 +18,11 @@ let VERSION = {
 }
 
 let changelog = `<h1>Changelog:</h1><br>
-	<h2>v0.1.2:/h2><br>
+	<h2>v0.1.2:</h2><br>
 	<h3>2024-02-17</h3><br>
-		- Fixed text in G layer
-		- Better format in S layer
-		- Abondoned because too complex to make it
+		- Fixed text in G layer<br>
+		- Better format in S layer<br>
+		- Abondoned because too complex to make it<br>
 	<br>
 	<h3>v0.1.1: Major bug fix</h3><br>
 	<h4>2024-01-20</h4><br>
